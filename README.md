@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is mt first repository
+This is my first repository
+Author-darsh
